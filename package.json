@@ -4,7 +4,7 @@
   "description": "js bind method",
   "main": "assignment.js",
   "scripts": {
-    "test": "npm run lint",
+    "test": "npm run lint && jest",
     "lint": "eslint assignment.js"
   },
   "repository": {
